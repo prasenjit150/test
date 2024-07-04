@@ -1,1 +1,2 @@
-const ab = "sd
+SELECT customer_id, "fulfillment method", id;
+FROM Staging_orders;
